@@ -15,7 +15,7 @@ Feature Engineering for Machine Learning - Alice Zheng [50%]
 # 2019 02
 
 The Wandering Earth - Cixin Liu [10%]  
-China's Asian Dream - Tom Miller [100%]  
+The State Strikes Back - Nicholas R. Lardy [100%]  
 Data Structures and Algorithms in Python - Michael T. Goodrich [5%]  
 Thinking, Fast and Slow - Daniel Kahneman [5%]  
 The Seven Principles for Making Marriage Work - John Gottman [15%]  
