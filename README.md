@@ -1,4 +1,3 @@
-# reading-list
 Books I'm reading
 
 A helpful guide to reading better: https://fs.blog/reading/  
