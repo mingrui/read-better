@@ -1,6 +1,8 @@
 # reading-list
 Books I'm reading
 
+A helpful guide to reading better: https://fs.blog/reading/  
+
 # 2019 01
 
 Intellectuals - Paul Johnson [100%]  
