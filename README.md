@@ -22,4 +22,5 @@ Thinking, Fast and Slow - Daniel Kahneman [5%]
 The Seven Principles for Making Marriage Work - John Gottman [15%]  
 Fullstack Vue - Hassan Djirdeh [15%]  
 The Crowd: A Study of the Popular Mind - Gustave Le Bon - 1895 [65%] - Great Book  
-The French Revolution: A Very Short Introduction - William Doyle [0%]
+The French Revolution: A Very Short Introduction - William Doyle [0%]  
+Let My People Go Surfing: The Education of a Reluctant Businessman - Yvon Chouinard [30%]
