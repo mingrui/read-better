@@ -24,3 +24,9 @@ Fullstack Vue - Hassan Djirdeh [15%]
 The Crowd: A Study of the Popular Mind - Gustave Le Bon - 1895 [65%] - Great Book  
 The French Revolution: A Very Short Introduction - William Doyle [0%]  
 Let My People Go Surfing: The Education of a Reluctant Businessman - Yvon Chouinard [30%]
+
+# 2019 03
+
+Timeless: A Drizzt Novel - R.A. Salvatore [100%]  
+The Cowshed: Memories of the Chinese Cultural Revolution - Ji Xianlin [30%]  
+Xi Jinping The Governance Of China - Xi Jinping [15%]  
