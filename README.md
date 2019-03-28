@@ -30,3 +30,5 @@ Let My People Go Surfing: The Education of a Reluctant Businessman - Yvon Chouin
 Timeless: A Drizzt Novel - R.A. Salvatore [100%]  
 The Cowshed: Memories of the Chinese Cultural Revolution - Ji Xianlin [30%]  
 Xi Jinping The Governance Of China - Xi Jinping [15%]  
+[The Dictator's Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics-ebook/dp/B005GPSLHI/ref=sr_1_1?crid=3J62CV7L7S89E&keywords=the+dictator%27s+handbook&qid=1553744784&s=books&sprefix=the+dictator%27s+handbook%2Cstripbooks-intl-ship%2C704&sr=1-1) [20%]  
+[Unflattening](https://www.amazon.com/Unflattening-Nick-Sousanis/dp/0674744438) [100%]  
