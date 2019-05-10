@@ -32,3 +32,11 @@ The Cowshed: Memories of the Chinese Cultural Revolution - Ji Xianlin [30%]
 Xi Jinping The Governance Of China - Xi Jinping [15%]  
 [The Dictator's Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics-ebook/dp/B005GPSLHI/ref=sr_1_1?crid=3J62CV7L7S89E&keywords=the+dictator%27s+handbook&qid=1553744784&s=books&sprefix=the+dictator%27s+handbook%2Cstripbooks-intl-ship%2C704&sr=1-1) [20%]  
 [Unflattening](https://www.amazon.com/Unflattening-Nick-Sousanis/dp/0674744438) [100%]  
+
+# 2019 04
+
+# 2019 05
+
+[Man's Search for Meaning](https://en.wikipedia.org/wiki/Man's_Search_for_Meaning) - Viktor Frankl [100%]  
+[Tools of Titans](https://books.google.com/books/about/Tools_of_Titans.html?id=fjr3DAAAQBAJ&source=kp_book_description) - Tim Ferriss [25%]
+
